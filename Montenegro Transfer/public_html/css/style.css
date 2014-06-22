@@ -3,6 +3,20 @@
 }
 
 .responsive {
+    max-width: 730px;
+    width: 100%;
+    height: auto;   
+}
+
+.responsive img {
     
+    max-width: 730px;
+    width: 100%;
+    max-width: 730px;
+    min-height: auto;
+}
+
+.font-button{
+    font-family: "Helvetica";
     
 }
